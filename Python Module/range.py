@@ -1,0 +1,5 @@
+r=range(0,5)
+print(r)
+print(type(r))
+range(1,10)
+range(1,10,2)
